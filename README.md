@@ -1,3 +1,3 @@
-### Oii! Eu sou o Andrey Santos
+### Hi! I'm Andrey Santos
 
-- Aprendendo Web Design
+- Learning Web Design
