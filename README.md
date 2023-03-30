@@ -1,3 +1,3 @@
 ### Hi, I'm Andrey Santos
 
-- Web Design
+- HTML | CSS | JavaScript
