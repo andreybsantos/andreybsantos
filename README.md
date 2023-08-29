@@ -1,3 +1,4 @@
-### Hi, I'm Andrey Santos
+### Hi 👋
+I'm Andrey Santos
 
 - HTML | CSS | JavaScript
